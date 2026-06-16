@@ -223,7 +223,7 @@ El resto de la landing se organiza en bloques claros: qué encontrará el usuari
 
 La versión móvil mantiene la misma estructura, pero adapta los contenidos en formato vertical. Se prioriza que la próxima edición, la fecha, el horario, la ubicación y los botones principales aparezcan pronto. Las tarjetas se apilan, los botones tienen buen tamaño y el contenido se divide en bloques breves para reducir la carga cognitiva.
 
-![Mockup móvil de ECOMERCADO UGR](img/mockup/ecomercado-ugr-movil.png)
+[Ver Mockup móvil de ECOMERCADO UGR](img/mockup/ecomercado-ugr-movil.png)
 
 A nivel visual, se ha utilizado una estética natural y cercana, con tonos verdes, crema y acentos cálidos. Esta paleta busca transmitir sostenibilidad, producto local y relación con el territorio. También se ha intentado cuidar la legibilidad, el contraste, la jerarquía visual y la claridad de los botones, aplicando los problemas detectados previamente en el análisis del referente.
 
