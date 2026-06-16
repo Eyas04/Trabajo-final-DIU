@@ -60,9 +60,17 @@ La intención no es únicamente describir una web existente, sino analizarla des
 
 ### 3.1 Contexto del caso
 
-Pendiente de desarrollar.
+El caso de estudio elegido para esta parte del trabajo es ECOMERCADO UGR, una iniciativa vinculada a la Universidad de Granada que busca acercar la producción agroecológica, el comercio justo y el consumo responsable a la comunidad universitaria y a la ciudadanía. El proyecto se desarrolla en el entorno del Living Lab Granada Tierra Viva, relacionado con el proyecto europeo SOILCRATES, y cuenta con la participación de la Red Agroecológica de Granada.
 
-En este apartado se explicará brevemente qué es ECOMERCADO UGR, qué tipo de iniciativa representa y qué necesidades podría cubrir para sus posibles usuarios.
+El ECOMERCADO UGR se plantea como un espacio de encuentro entre productores locales, entidades sociales, comunidad universitaria y personas interesadas en modelos de consumo más sostenibles. No se trata únicamente de un mercado donde comprar productos ecológicos, sino también de una actividad con valor educativo y social, ya que permite conocer de forma directa a productores, asociaciones e iniciativas vinculadas a la agroecología, la economía social y la alimentación saludable.
+
+La iniciativa se ha celebrado en los Paseíllos Universitarios del Campus de Fuentenueva, un espacio muy reconocible dentro de la Universidad de Granada. En las noticias publicadas por la UGR se presenta como una actividad de carácter periódico o mensual, con ediciones centradas en productos agroecológicos, productos de proximidad, comercio justo, elaboraciones artesanales y actividades de sensibilización.
+
+Desde el punto de vista del diseño de interfaces, este caso resulta interesante porque combina dos tipos de necesidades. Por un lado, existen necesidades informativas muy concretas: saber cuándo se celebra la próxima edición, dónde está situada, cuál es el horario, qué productores participan, qué productos se pueden encontrar y cómo llegar. Por otro lado, también hay necesidades más relacionadas con la experiencia de usuario: transmitir confianza, cercanía, sostenibilidad, claridad y coherencia con los valores del proyecto.
+
+Por tanto, una propuesta digital para ECOMERCADO UGR debería funcionar como un punto de información claro y rápido, especialmente pensado para usuarios que consultan la web desde el móvil. El público potencial puede ser bastante variado: estudiantes que pasan por el Campus de Fuentenueva, profesorado, personal de administración y servicios, vecinos de Granada o personas interesadas en alimentación ecológica y consumo local. Esto hace necesario diseñar una interfaz sencilla, accesible y orientada a resolver dudas prácticas desde los primeros segundos.
+
+En este trabajo se plantea ECOMERCADO UGR como el caso final sobre el que aplicar los aprendizajes obtenidos durante la asignatura. Para ello, primero se analiza un referente real relacionado con mercados ecológicos y productos de temporada, y después se extraen insights que permitan definir una propuesta de valor y una primera solución de interfaz para el ecomercado universitario.
 
 ### 3.2 Análisis de referente: Nuestras Huertas
 
