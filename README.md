@@ -78,7 +78,7 @@ Para el análisis del referente se ha seleccionado la web **Nuestras Huertas**, 
 
 La intención de este análisis no es rediseñar la web de Nuestras Huertas, sino observar qué decisiones funcionan bien, qué problemas aparecen y qué aprendizajes pueden aplicarse después a una propuesta propia para ECOMERCADO UGR.
 
-#### Captura general del referente
+#### Análisis visual del referente
 
 A primera vista, la web transmite bien la identidad del proyecto. El uso de fotografías de huerta, colores naturales y mensajes como “sembrando vida” o “te llevamos al huerto” ayuda a comunicar una imagen cercana, ecológica y coherente con el tipo de producto que se ofrece. También aparece un CTA visible en la zona superior, “Suscríbete a nuestras cestas”, lo que permite entender que una de las acciones principales de la web es conseguir suscriptores para el servicio de cestas.
 
@@ -205,6 +205,8 @@ En conjunto, la propuesta de valor de ECOMERCADO UGR consiste en crear una exper
 Por tanto, la web no se plantea como un fin en sí mismo, sino como el medio para dar forma digital a una experiencia más amplia: una plaza universitaria donde informarse, participar y conectar con modelos de consumo más sostenibles.
 
 A partir de esta propuesta de valor, el siguiente paso será traducir estas ideas a una propuesta de diseño visual mediante una landing responsive, definiendo su estructura, secciones principales, jerarquía de contenidos, botones, tarjetas informativas y boceto inicial.
+
+
 ### 3.5 Propuesta de diseño
 
 A partir de la propuesta de valor anterior, se plantea una **landing web responsive de una sola página** para ECOMERCADO UGR. Se ha elegido este formato porque el objetivo principal es centralizar la información práctica del ecomercado y permitir que el usuario acceda rápido a las secciones principales: próxima edición, productores, actividades y cómo llegar.
@@ -238,6 +240,8 @@ La versión móvil mantiene la misma estructura, pero adapta los contenidos en f
 A nivel visual, se ha utilizado una estética natural y cercana, con tonos verdes, crema y acentos cálidos. Esta paleta busca transmitir sostenibilidad, producto local y relación con el territorio. También se ha intentado cuidar la legibilidad, el contraste, la jerarquía visual y la claridad de los botones, aplicando los problemas detectados previamente en el análisis del referente.
 
 En conjunto, la propuesta transforma el ECOMERCADO UGR en una experiencia digital más clara y útil. No se plantea solo como una página informativa, sino como una **plaza digital** que permite localizar el mercado, conocer a sus productores, consultar actividades y facilitar la participación de la comunidad universitaria y la ciudadanía.
+
+
 ## 4. Conclusiones y autoevaluación final
 
 El desarrollo de este caso de estudio me ha servido para aplicar de forma más concreta muchas de las cosas trabajadas durante la asignatura. En las prácticas anteriores ya habíamos trabajado partes del proceso de diseño, como la observación de usuarios, el moodboard, la usabilidad, la accesibilidad, las microinteracciones y el prototipado. En este trabajo he intentado juntar todo eso en un caso más realista, partiendo primero de un análisis y acabando con una propuesta visual para ECOMERCADO UGR.
