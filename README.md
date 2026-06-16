@@ -1,12 +1,12 @@
-# Trabajo-final-DIU
 # Trabajo Final DIU - Portfolio UX y ECOMERCADO UGR
 
 ## 1. Introducción
+
+Este repositorio recoge el trabajo final de la asignatura Diseño de Interfaces de Usuario. El objetivo del trabajo es, por un lado, realizar una reflexión sobre la experiencia adquirida durante la asignatura en relación con la interfaz de usuario, la experiencia de usuario, la usabilidad y la accesibilidad. Por otro lado, se aplica parte de ese aprendizaje a un caso de estudio relacionado con el ECOMERCADO UGR, analizando referentes reales y planteando una propuesta de mejora desde el punto de vista del diseño centrado en el usuario.
+
+La estructura del trabajo se divide en dos partes principales. En primer lugar, se presenta una autoevaluación de la experiencia UX adquirida a través de las actividades de clase y de la práctica principal desarrollada durante el curso. En segundo lugar, se analiza un caso relacionado con mercados ecológicos y productos de temporada, extrayendo conclusiones e ideas que puedan servir para plantear una propuesta de valor y un diseño inicial para ECOMERCADO UGR.
+
 ## 2. Parte I: Mi experiencia UX
-
-## Parte I: Mi experiencia UX
-
-Parte I: Mi experiencia UX
 
 Antes de cursar esta asignatura, mi forma de entender el diseño de interfaces era bastante más simple. En general, tendía a pensar que una interfaz estaba bien hecha si visualmente era agradable, si tenía colores bonitos, una estructura moderna y si no daba una sensación demasiado antigua. Sin embargo, a lo largo de las actividades y de la práctica principal he ido cambiando bastante esa forma de verlo. Ahora entiendo mejor que una interfaz no se puede valorar solo por su estética, sino por cómo ayuda realmente al usuario a conseguir lo que quiere hacer, cuánto esfuerzo le supone, si entiende lo que está pasando y si la experiencia le resulta cómoda o frustrante.
 
@@ -51,7 +51,63 @@ Como autoevaluación, creo que mi mayor mejora ha sido aprender a justificar mej
 Aun así, creo que todavía tengo aspectos que mejorar. Me habría gustado tener más soltura con Figma desde el principio, porque al inicio algunas tareas se hacían más lentas por falta de manejo de la herramienta. También creo que podríamos haber hecho más iteraciones con usuarios reales, ya que muchas veces una sola evaluación da información útil, pero no suficiente para detectar todos los problemas. En accesibilidad también considero que podría profundizar más, sobre todo en cómo aplicar criterios desde el diseño inicial y no solo al revisar el resultado.
 
 En general, mi valoración de la experiencia en la asignatura es positiva. Me ha permitido entender que una buena interfaz no depende solo de que sea visualmente atractiva, sino de que sea clara, accesible, coherente y fácil de usar. También me ha ayudado a ver que el diseño debe basarse en evidencias, aunque sean sencillas, y no únicamente en gustos personales. Creo que la práctica de La Estantería de Sabores resume bastante bien este aprendizaje, porque nos obligó a pasar por un proceso completo: observar, analizar, proponer, diseñar, evaluar y desarrollar. Y precisamente esa es la parte que considero más valiosa: haber entendido que el diseño de interfaces es un proceso, no solo el resultado final de una pantalla.
+
 ## 3. Parte II: Caso de estudio ECOMERCADO UGR
-## 4. Propuesta de diseño
-## 5. Conclusiones
-## 6. Referencias
+
+En esta segunda parte se analizará un caso de estudio relacionado con mercados ecológicos, productos locales y consumo de temporada, con el objetivo de extraer ideas aplicables a una propuesta de diseño para ECOMERCADO UGR.
+
+La intención no es únicamente describir una web existente, sino analizarla desde criterios de diseño centrado en usuario, usabilidad, accesibilidad y experiencia de usuario. A partir de ese análisis se extraerán conclusiones e insights que sirvan para plantear una propuesta de valor propia para el ECOMERCADO UGR.
+
+### 3.1 Contexto del caso
+
+Pendiente de desarrollar.
+
+En este apartado se explicará brevemente qué es ECOMERCADO UGR, qué tipo de iniciativa representa y qué necesidades podría cubrir para sus posibles usuarios.
+
+### 3.2 Análisis de referentes
+
+Pendiente de desarrollar.
+
+En este apartado se analizará una propuesta real relacionada con mercados ecológicos o productos de temporada. Se tendrán en cuenta aspectos como:
+
+* claridad de la información;
+* estructura de navegación;
+* adaptación a móvil;
+* visibilidad de eventos o productos;
+* llamadas a la acción;
+* accesibilidad;
+* confianza y cercanía transmitida por la interfaz.
+
+### 3.3 Insights detectados
+
+Pendiente de desarrollar.
+
+A partir del análisis anterior se recogerán los principales aprendizajes que podrían trasladarse al caso de ECOMERCADO UGR.
+
+### 3.4 Propuesta de valor para ECOMERCADO UGR
+
+Pendiente de desarrollar.
+
+En este apartado se planteará qué debería aportar la propuesta digital de ECOMERCADO UGR a sus usuarios, teniendo en cuenta tanto la información práctica como la experiencia de uso.
+
+### 3.5 Propuesta de diseño
+
+Pendiente de desarrollar.
+
+En este apartado se incluirá el boceto o mockup de la propuesta, junto con una breve explicación de las decisiones de diseño tomadas.
+
+## 4. Conclusiones
+
+Pendiente de desarrollar.
+
+En este apartado se recogerán las conclusiones generales del trabajo, relacionando la experiencia adquirida durante la asignatura con la propuesta realizada para ECOMERCADO UGR.
+
+## 5. Referencias
+
+Pendiente de completar.
+
+* Guion del trabajo final de DIU.
+* Material teórico de la asignatura Diseño de Interfaces de Usuario.
+* Actividades prácticas realizadas en clase.
+* Práctica principal: La Estantería de Sabores.
+* Recursos relacionados con usabilidad, accesibilidad y diseño centrado en usuario.
