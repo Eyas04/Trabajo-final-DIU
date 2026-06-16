@@ -207,10 +207,27 @@ Por tanto, la web no se plantea como un fin en sí mismo, sino como el medio par
 A partir de esta propuesta de valor, el siguiente paso será traducir estas ideas a una propuesta de diseño visual mediante una landing responsive, definiendo su estructura, secciones principales, jerarquía de contenidos, botones, tarjetas informativas y boceto inicial.
 ### 3.5 Propuesta de diseño
 
-Pendiente de desarrollar.
+### 3.5 Propuesta de diseño
 
-En este apartado se incluirá el boceto o mockup de la propuesta, junto con una breve explicación de las decisiones de diseño tomadas.
+A partir de la propuesta de valor anterior, se plantea una **landing web responsive de una sola página** para ECOMERCADO UGR. Se ha elegido este formato porque el objetivo principal es centralizar la información práctica del ecomercado y permitir que el usuario acceda rápido a las secciones principales: próxima edición, productores, actividades y cómo llegar.
 
+La pantalla inicial presenta el nombre **ECOMERCADO UGR**, una breve descripción del proyecto y dos llamadas a la acción: **“Ver próxima edición”** y **“Conocer productores”**. Esta decisión responde al insight principal del análisis: el usuario debe entender rápidamente qué es el ecomercado y encontrar sin esfuerzo la información más importante.
+
+![Mockup principal de ECOMERCADO UGR](img/mockup/ecomercado-ugr-home.png)
+
+Uno de los elementos centrales del diseño es la tarjeta de **próxima edición**, donde se muestran fecha, horario, ubicación y acciones directas. Esta tarjeta convierte la información práctica en el punto de partida de la experiencia, evitando que el usuario tenga que buscar los datos entre textos largos o varias páginas.
+
+![Tarjeta de próxima edición](img/mockup/ecomercado-ugr-proxima-edicion.png)
+
+El resto de la landing se organiza en bloques claros: qué encontrará el usuario, productores participantes, productos de temporada, actividades del día, cómo llegar y participación. Se usan tarjetas visuales para separar la información y facilitar la lectura, especialmente en móvil. Además, la sección de productores refuerza la conexión entre producto, productor y territorio, uno de los valores principales de la propuesta.
+
+La versión móvil mantiene la misma estructura, pero adapta los contenidos en formato vertical. Se prioriza que la próxima edición, la fecha, el horario, la ubicación y los botones principales aparezcan pronto. Las tarjetas se apilan, los botones tienen buen tamaño y el contenido se divide en bloques breves para reducir la carga cognitiva.
+
+![Mockup móvil de ECOMERCADO UGR](img/mockup/ecomercado-ugr-movil.png)
+
+A nivel visual, se ha utilizado una estética natural y cercana, con tonos verdes, crema y acentos cálidos. Esta paleta busca transmitir sostenibilidad, producto local y relación con el territorio. También se ha intentado cuidar la legibilidad, el contraste, la jerarquía visual y la claridad de los botones, aplicando los problemas detectados previamente en el análisis del referente.
+
+En conjunto, la propuesta transforma el ECOMERCADO UGR en una experiencia digital más clara y útil. No se plantea solo como una página informativa, sino como una **plaza digital** que permite localizar el mercado, conocer a sus productores, consultar actividades y facilitar la participación de la comunidad universitaria y la ciudadanía.
 ## 4. Conclusiones
 
 Pendiente de desarrollar.
