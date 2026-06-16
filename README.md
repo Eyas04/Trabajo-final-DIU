@@ -152,9 +152,55 @@ En resumen, Nuestras Huertas funciona bien como referente porque transmite cerca
 Para ECOMERCADO UGR, el principal aprendizaje es que la interfaz debe ser más directa. La página principal debería responder rápidamente a las preguntas básicas del usuario: **cuándo es el próximo mercado, dónde se celebra, qué horario tiene, qué productores participan y cómo llegar**. A partir de ahí, se pueden añadir secciones secundarias sobre el proyecto, actividades, noticias o participación.
 ### 3.4 Propuesta de valor para ECOMERCADO UGR
 
-Pendiente de desarrollar.
+### 3.4 Propuesta de valor para ECOMERCADO UGR
 
-En este apartado se planteará qué debería aportar la propuesta digital de ECOMERCADO UGR a sus usuarios, teniendo en cuenta tanto la información práctica como la experiencia de uso.
+A partir de los insights obtenidos en el análisis del referente Nuestras Huertas y de la información actual disponible sobre el ECOMERCADO UGR en Impronta Granada, la propuesta de valor no se plantea simplemente como crear una página web más ordenada. La idea principal es transformar una ficha de evento puntual en una **plaza digital viva** para el ECOMERCADO UGR.
+
+Esta plaza digital funcionaría como un espacio estable donde la comunidad universitaria y la ciudadanía puedan descubrir el ecomercado, localizar la próxima edición, conocer a los productores, consultar productos de temporada y participar en actividades relacionadas con sostenibilidad, alimentación responsable y territorio.
+
+Actualmente, la información del ECOMERCADO UGR aparece dentro de una página de evento de Impronta Granada. Esta página cumple una función informativa básica, ya que muestra datos como la fecha, el horario, el lugar y una explicación general de la jornada. Sin embargo, no funciona como una experiencia propia del ecomercado ni como un punto de consulta recurrente para futuras ediciones. Por ello, la propuesta busca dar un paso más: pasar de una página de evento a una interfaz pensada desde las necesidades reales del usuario.
+
+La propuesta de valor se resume en la siguiente idea:
+
+**ECOMERCADO UGR: una plaza digital para descubrir, localizar y participar en el mercado agroecológico universitario de Granada.**
+
+Esta propuesta se apoya directamente en los insights detectados durante el análisis:
+
+| Insight detectado | Aplicación en la propuesta de valor |
+|---|---|
+| En Nuestras Huertas la información es completa, pero la página se vuelve larga, especialmente en móvil. | ECOMERCADO UGR debe mostrar primero la información esencial: próxima edición, fecha, horario, ubicación y acciones directas. |
+| La información sobre mercados funciona mejor cuando se presenta en bloques o tarjetas claras. | La próxima edición debe aparecer como una tarjeta destacada, fácil de leer y orientada a la acción. |
+| En el referente no se destaca de forma suficiente cuál es el próximo mercado. | La experiencia debe girar alrededor de la próxima edición, evitando que el usuario tenga que buscar entre mucho contenido. |
+| WAVE y Lighthouse detectan problemas de contraste, estructura y accesibilidad. | La propuesta debe incorporar accesibilidad desde el inicio: buen contraste, textos legibles, jerarquía clara y enlaces comprensibles. |
+| Los elementos de confianza ayudan a reforzar la credibilidad del proyecto. | ECOMERCADO UGR debe mostrar entidades participantes, productores, ubicación real, contacto y vinculación con la UGR. |
+| El referente conecta producto ecológico con cercanía y productores. | La propuesta debe dar protagonismo a los productores locales, los productos de temporada y la relación con el territorio granadino. |
+| La información actual de ECOMERCADO UGR aparece como evento dentro de una plataforma general. | La propuesta debe funcionar como un espacio propio, reutilizable y actualizado, no solo como una noticia puntual. |
+
+A partir de estos insights, la propuesta se organiza en tres capas de valor.
+
+**1. Información rápida y útil**
+
+La primera capa de valor consiste en resolver la necesidad más inmediata del usuario: saber cuándo se celebra el próximo ecomercado, dónde está, a qué hora empieza y cómo llegar. Esta información debería aparecer en la parte superior de la interfaz, sin obligar al usuario a leer textos largos o recorrer varias secciones.
+
+Esta capa se traduce en una experiencia centrada en la próxima edición. La página debería incluir una tarjeta principal con fecha, horario, ubicación y botones como **“Cómo llegar”**, **“Ver productores”** o **“Añadir al calendario”**. De esta forma, la interfaz responde rápidamente a las preguntas básicas del usuario.
+
+**2. Conexión humana y territorial**
+
+La segunda capa de valor consiste en mostrar que el ECOMERCADO UGR no es solo un punto de venta, sino un espacio de encuentro entre universidad, productores, ciudadanía y territorio. Por eso, la propuesta debe dar visibilidad a las personas y entidades que participan en el proyecto.
+
+La interfaz debería incluir una sección de productores participantes, productos de temporada y entidades colaboradoras. Esto permite que el usuario no solo sepa que hay productos ecológicos, sino también quién los produce, de dónde vienen y qué relación tienen con Granada y su entorno. Esta capa aporta confianza, cercanía y sentido social a la experiencia.
+
+**3. Continuidad más allá del evento**
+
+La tercera capa de valor consiste en evitar que el ECOMERCADO UGR se perciba únicamente como una jornada aislada. Aunque el mercado se celebre en fechas concretas, la web puede mantener vivo el proyecto entre una edición y otra.
+
+Para ello, la propuesta puede incluir próximas fechas, actividades, talleres, noticias breves, productos de temporada y formas de participar. Así, la interfaz no solo informa sobre un día concreto, sino que ayuda a construir una experiencia universitaria continua relacionada con sostenibilidad, alimentación responsable y participación ciudadana.
+
+En conjunto, la propuesta de valor de ECOMERCADO UGR consiste en crear una experiencia digital clara, accesible y orientada a móvil que convierta la información del ecomercado en algo fácil de consultar y útil para distintos perfiles de usuario. La solución debe permitir localizar rápidamente la próxima edición, conocer a los productores, descubrir productos y actividades, y reforzar la identidad del ecomercado como espacio de encuentro entre universidad, sostenibilidad y territorio.
+
+Por tanto, la web no se plantea como un fin en sí mismo, sino como el medio para dar forma digital a una experiencia más amplia: una plaza universitaria donde informarse, participar y conectar con modelos de consumo más sostenibles.
+
+A partir de esta propuesta de valor, el siguiente paso será traducir estas ideas a una propuesta de diseño visual mediante una landing responsive, definiendo su estructura, secciones principales, jerarquía de contenidos, botones, tarjetas informativas y boceto inicial.
 
 ### 3.5 Propuesta de diseño
 
