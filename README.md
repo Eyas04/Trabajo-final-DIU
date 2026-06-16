@@ -72,8 +72,6 @@ La intención de este análisis no es rediseñar la web de Nuestras Huertas, sin
 
 #### Captura general del referente
 
-![Página principal de Nuestras Huertas](img/analisis_referentes/nuestras-huertas-home.png)
-
 A primera vista, la web transmite bien la identidad del proyecto. El uso de fotografías de huerta, colores naturales y mensajes como “sembrando vida” o “te llevamos al huerto” ayuda a comunicar una imagen cercana, ecológica y coherente con el tipo de producto que se ofrece. También aparece un CTA visible en la zona superior, “Suscríbete a nuestras cestas”, lo que permite entender que una de las acciones principales de la web es conseguir suscriptores para el servicio de cestas.
 
 Sin embargo, la página funciona como una landing bastante larga, con muchas secciones seguidas: presentación del proyecto, propuesta de valor, huerta, vídeo, mercados, blog, reseñas, mapa, newsletter y footer. Esto permite ofrecer mucha información, pero también puede aumentar la carga cognitiva del usuario si entra buscando un dato concreto. En el caso de ECOMERCADO UGR, donde probablemente muchos usuarios solo quieran saber fecha, horario, ubicación o productores participantes, sería importante priorizar la información más inmediata desde el principio.
