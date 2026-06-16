@@ -98,7 +98,7 @@ De esta sección se extrae un insight importante para ECOMERCADO UGR: la página
 
 #### Versión móvil
 
-![Versión móvil de Nuestras Huertas](img/analisis_referentes/nuestras-huertas-movil.png)
+**Evidencia:** [Ver versión móvil de Nuestras Huertas](img/analisis_referentes/nuestras-huertas-movil.png)
 
 En la versión móvil, la web mantiene el contenido principal y adapta las secciones en formato vertical. Esto es positivo porque permite consultar la página desde un dispositivo móvil, que probablemente será uno de los contextos de uso más habituales. Sin embargo, también se aprecia que la página se vuelve muy larga. El usuario tiene que hacer bastante scroll para llegar a secciones como mercados, blog, reseñas o contacto.
 
