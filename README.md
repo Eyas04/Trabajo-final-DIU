@@ -207,8 +207,6 @@ Por tanto, la web no se plantea como un fin en sí mismo, sino como el medio par
 A partir de esta propuesta de valor, el siguiente paso será traducir estas ideas a una propuesta de diseño visual mediante una landing responsive, definiendo su estructura, secciones principales, jerarquía de contenidos, botones, tarjetas informativas y boceto inicial.
 ### 3.5 Propuesta de diseño
 
-### 3.5 Propuesta de diseño
-
 A partir de la propuesta de valor anterior, se plantea una **landing web responsive de una sola página** para ECOMERCADO UGR. Se ha elegido este formato porque el objetivo principal es centralizar la información práctica del ecomercado y permitir que el usuario acceda rápido a las secciones principales: próxima edición, productores, actividades y cómo llegar.
 
 La pantalla inicial presenta el nombre **ECOMERCADO UGR**, una breve descripción del proyecto y dos llamadas a la acción: **“Ver próxima edición”** y **“Conocer productores”**. Esta decisión responde al insight principal del análisis: el usuario debe entender rápidamente qué es el ecomercado y encontrar sin esfuerzo la información más importante.
@@ -219,7 +217,19 @@ Uno de los elementos centrales del diseño es la tarjeta de **próxima edición*
 
 ![Tarjeta de próxima edición](img/mockup/ecomercado-ugr-proxima-edicion.png)
 
-El resto de la landing se organiza en bloques claros: qué encontrará el usuario, productores participantes, productos de temporada, actividades del día, cómo llegar y participación. Se usan tarjetas visuales para separar la información y facilitar la lectura, especialmente en móvil. Además, la sección de productores refuerza la conexión entre producto, productor y territorio, uno de los valores principales de la propuesta.
+Después de esta parte principal, la landing se organiza en bloques claros que permiten entender mejor el contenido y el valor del ecomercado. Primero aparece una sección de **qué encontrará el usuario**, con tres bloques sobre productos agroecológicos, productores de proximidad y actividades vinculadas a sostenibilidad y comunidad.
+
+La sección de **productores participantes** utiliza tarjetas visuales con imagen, nombre, categoría y una breve descripción. Esta parte refuerza la conexión entre producto, productor y territorio, que era uno de los aspectos más importantes de la propuesta de valor.
+
+![Sección de productores participantes](img/mockup/ecomercado-ugr-productores.png)
+
+La sección de **actividades del día** se organiza como una agenda visual con horarios. Esto ayuda a mostrar que el ECOMERCADO UGR no es solo un lugar para comprar productos, sino también un espacio de encuentro, aprendizaje y participación.
+
+![Sección de actividades del día](img/mockup/ecomercado-ugr-actividades.png)
+
+La parte de **cómo llegar** reúne la información de ubicación en una tarjeta clara, acompañada de medios de acceso y un botón para abrir el mapa. Esta decisión responde a una necesidad muy práctica del usuario: saber cómo llegar al Campus de Fuentenueva de forma rápida y sin tener que salir a buscar la información a otra página.
+
+![Sección de cómo llegar](img/mockup/ecomercado-ugr-como-llegar.png)
 
 La versión móvil mantiene la misma estructura, pero adapta los contenidos en formato vertical. Se prioriza que la próxima edición, la fecha, el horario, la ubicación y los botones principales aparezcan pronto. Las tarjetas se apilan, los botones tienen buen tamaño y el contenido se divide en bloques breves para reducir la carga cognitiva.
 
