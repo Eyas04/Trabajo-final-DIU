@@ -158,6 +158,8 @@ A partir de los insights obtenidos en el análisis del referente Nuestras Huerta
 
 Esta plaza digital funcionaría como un espacio estable donde la comunidad universitaria y la ciudadanía puedan descubrir el ecomercado, localizar la próxima edición, conocer a los productores, consultar productos de temporada y participar en actividades relacionadas con sostenibilidad, alimentación responsable y territorio.
 
+Esta propuesta está pensada especialmente para **estudiantes, personal universitario, ciudadanía interesada en consumo sostenible y productores locales** que necesitan un espacio claro donde consultar información, orientarse y participar en el proyecto.
+
 Actualmente, la información del ECOMERCADO UGR aparece dentro de una página de evento de Impronta Granada. Esta página cumple una función informativa básica, ya que muestra datos como la fecha, el horario, el lugar y una explicación general de la jornada. Sin embargo, no funciona como una experiencia propia del ecomercado ni como un punto de consulta recurrente para futuras ediciones. Por ello, la propuesta busca dar un paso más: pasar de una página de evento a una interfaz pensada desde las necesidades reales del usuario.
 
 La propuesta de valor se resume en la siguiente idea:
@@ -182,13 +184,15 @@ A partir de estos insights, la propuesta se organiza en tres capas de valor.
 
 La primera capa de valor consiste en resolver la necesidad más inmediata del usuario: saber cuándo se celebra el próximo ecomercado, dónde está, a qué hora empieza y cómo llegar. Esta información debería aparecer en la parte superior de la interfaz, sin obligar al usuario a leer textos largos o recorrer varias secciones.
 
+Esta capa se dirige sobre todo a estudiantes, profesorado, personal universitario o visitantes que pueden consultar la web desde el móvil mientras están en el campus o antes de desplazarse. Para estos usuarios, la página debe responder de forma rápida a preguntas básicas: qué día es, dónde se celebra, cuánto dura y cómo llegar.
+
 Esta capa se traduce en una experiencia centrada en la próxima edición. La página debería incluir una tarjeta principal con fecha, horario, ubicación y botones como **“Cómo llegar”**, **“Ver productores”** o **“Añadir al calendario”**. De esta forma, la interfaz responde rápidamente a las preguntas básicas del usuario.
 
 **2. Conexión humana y territorial**
 
 La segunda capa de valor consiste en mostrar que el ECOMERCADO UGR no es solo un punto de venta, sino un espacio de encuentro entre universidad, productores, ciudadanía y territorio. Por eso, la propuesta debe dar visibilidad a las personas y entidades que participan en el proyecto.
 
-La interfaz debería incluir una sección de productores participantes, productos de temporada y entidades colaboradoras. Esto permite que el usuario no solo sepa que hay productos ecológicos, sino también quién los produce, de dónde vienen y qué relación tienen con Granada y su entorno. Esta capa aporta confianza, cercanía y sentido social a la experiencia.
+Esta capa aporta valor tanto a los usuarios que quieren comprar productos ecológicos como a los productores locales que necesitan visibilidad dentro del entorno universitario. La interfaz debería incluir una sección de productores participantes, productos de temporada y entidades colaboradoras. Esto permite que el usuario no solo sepa que hay productos ecológicos, sino también quién los produce, de dónde vienen y qué relación tienen con Granada y su entorno.
 
 **3. Continuidad más allá del evento**
 
@@ -201,7 +205,6 @@ En conjunto, la propuesta de valor de ECOMERCADO UGR consiste en crear una exper
 Por tanto, la web no se plantea como un fin en sí mismo, sino como el medio para dar forma digital a una experiencia más amplia: una plaza universitaria donde informarse, participar y conectar con modelos de consumo más sostenibles.
 
 A partir de esta propuesta de valor, el siguiente paso será traducir estas ideas a una propuesta de diseño visual mediante una landing responsive, definiendo su estructura, secciones principales, jerarquía de contenidos, botones, tarjetas informativas y boceto inicial.
-
 ### 3.5 Propuesta de diseño
 
 Pendiente de desarrollar.
