@@ -228,18 +228,20 @@ La versión móvil mantiene la misma estructura, pero adapta los contenidos en f
 A nivel visual, se ha utilizado una estética natural y cercana, con tonos verdes, crema y acentos cálidos. Esta paleta busca transmitir sostenibilidad, producto local y relación con el territorio. También se ha intentado cuidar la legibilidad, el contraste, la jerarquía visual y la claridad de los botones, aplicando los problemas detectados previamente en el análisis del referente.
 
 En conjunto, la propuesta transforma el ECOMERCADO UGR en una experiencia digital más clara y útil. No se plantea solo como una página informativa, sino como una **plaza digital** que permite localizar el mercado, conocer a sus productores, consultar actividades y facilitar la participación de la comunidad universitaria y la ciudadanía.
-## 4. Conclusiones
+## 4. Conclusiones y autoevaluación final
 
-Pendiente de desarrollar.
+El desarrollo de este caso de estudio me ha servido para aplicar de forma más concreta muchas de las cosas trabajadas durante la asignatura. En las prácticas anteriores ya habíamos trabajado partes del proceso de diseño, como la observación de usuarios, el moodboard, la usabilidad, la accesibilidad, las microinteracciones y el prototipado. En este trabajo he intentado juntar todo eso en un caso más realista, partiendo primero de un análisis y acabando con una propuesta visual para ECOMERCADO UGR.
 
-En este apartado se recogerán las conclusiones generales del trabajo, relacionando la experiencia adquirida durante la asignatura con la propuesta realizada para ECOMERCADO UGR.
+Una de las partes que más he aplicado ha sido el enfoque de diseño centrado en el usuario. En lugar de empezar directamente diseñando una pantalla, primero he analizado el contexto del ecomercado, la página actual en la que aparece la información y un referente externo como Nuestras Huertas. Esto me ha ayudado a ver que el problema no era simplemente hacer una web más bonita, sino organizar mejor la información y pensar qué necesita encontrar el usuario cuando entra: próxima edición, horario, ubicación, productores, actividades y cómo llegar.
 
-## 5. Referencias
+También he aplicado lo aprendido sobre usabilidad y accesibilidad. El análisis con WAVE y Lighthouse me ha servido para detectar problemas que a simple vista pueden pasar desapercibidos, como el contraste, la estructura de encabezados o los enlaces poco claros. A partir de ahí, en la propuesta de diseño he intentado cuidar más la jerarquía visual, la legibilidad, el tamaño de los botones y la organización de las secciones, especialmente en móvil.
 
-Pendiente de completar.
+Otra parte importante ha sido la relación con las prácticas de prototipado y estilo visual. El mockup final recoge decisiones que vienen de los insights detectados: usar tarjetas para ordenar la información, colocar la próxima edición como elemento principal, dar visibilidad a productores y productos de temporada, y plantear una landing responsive de una sola página. Esto conecta con lo trabajado en las prácticas de diseño visual, microinteracciones y diseño de interfaces, donde no solo importa el aspecto estético, sino también que la interfaz sea clara, coherente y fácil de usar.
 
-* Guion del trabajo final de DIU.
-* Material teórico de la asignatura Diseño de Interfaces de Usuario.
-* Actividades prácticas realizadas en clase.
-* Práctica principal: La Estantería de Sabores.
-* Recursos relacionados con usabilidad, accesibilidad y diseño centrado en usuario.
+Aun así, hay partes que habría sido interesante desarrollar más. Por ejemplo, en un caso real habría sido muy útil hacer entrevistas o pruebas rápidas con estudiantes, personal de la UGR, ciudadanía y productores para comprobar si la propuesta responde realmente a sus necesidades. También habría sido interesante probar el mockup con usuarios, medir si encuentran rápido la próxima edición, si entienden bien las secciones y si los botones principales resultan claros. Esto permitiría validar la propuesta con datos reales y no solo desde el análisis experto.
+
+También habría sido interesante realizar una evaluación de accesibilidad más completa sobre el propio diseño final, especialmente comprobando contraste, tamaños de texto, navegación por teclado y textos alternativos. En este trabajo se han tenido en cuenta esos criterios durante el diseño, pero en una fase más avanzada habría que revisarlos de forma más sistemática.
+
+En general, considero que la propuesta está bastante cerca de lo que podría ser una primera solución para un caso real, porque parte de un análisis previo, detecta necesidades concretas y las convierte en una propuesta visual coherente. Sin embargo, todavía sería una primera versión. Para llegar a un diseño realmente final habría que iterar, probarlo con usuarios, ajustar contenidos reales, validar la información con la organización del ecomercado y comprobar su funcionamiento en distintos dispositivos.
+
+Como conclusión general, este trabajo me ha ayudado a entender mejor que diseñar una interfaz no consiste solo en colocar secciones o elegir colores. El diseño tiene que responder a necesidades reales, facilitar tareas concretas y tener en cuenta a personas distintas. En este caso, la propuesta de ECOMERCADO UGR intenta convertir una información que aparece como evento puntual en una experiencia digital más clara, útil y accesible para la comunidad universitaria y la ciudadanía.
