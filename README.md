@@ -64,26 +64,90 @@ Pendiente de desarrollar.
 
 En este apartado se explicará brevemente qué es ECOMERCADO UGR, qué tipo de iniciativa representa y qué necesidades podría cubrir para sus posibles usuarios.
 
-### 3.2 Análisis de referentes
+### 3.2 Análisis de referente: Nuestras Huertas
 
-Pendiente de desarrollar.
+Para el análisis del referente se ha seleccionado la web **Nuestras Huertas**, un proyecto centrado en fruta y verdura ecológica, cestas semanales y mercados ecológicos en la Comunidad de Madrid. Se ha elegido este caso porque comparte varios elementos con el futuro ECOMERCADO UGR: producto ecológico, cercanía con productores, consumo responsable, mercados presenciales y necesidad de comunicar información práctica como horarios, ubicaciones y formas de participación.
 
-En este apartado se analizará una propuesta real relacionada con mercados ecológicos o productos de temporada. Se tendrán en cuenta aspectos como:
+La intención de este análisis no es rediseñar la web de Nuestras Huertas, sino observar qué decisiones funcionan bien, qué problemas aparecen y qué aprendizajes pueden aplicarse después a una propuesta propia para ECOMERCADO UGR.
 
-* claridad de la información;
-* estructura de navegación;
-* adaptación a móvil;
-* visibilidad de eventos o productos;
-* llamadas a la acción;
-* accesibilidad;
-* confianza y cercanía transmitida por la interfaz.
+#### Captura general del referente
 
-### 3.3 Insights detectados
+![Página principal de Nuestras Huertas](img/analisis_referentes/nuestras-huertas-home.png)
 
-Pendiente de desarrollar.
+A primera vista, la web transmite bien la identidad del proyecto. El uso de fotografías de huerta, colores naturales y mensajes como “sembrando vida” o “te llevamos al huerto” ayuda a comunicar una imagen cercana, ecológica y coherente con el tipo de producto que se ofrece. También aparece un CTA visible en la zona superior, “Suscríbete a nuestras cestas”, lo que permite entender que una de las acciones principales de la web es conseguir suscriptores para el servicio de cestas.
 
-A partir del análisis anterior se recogerán los principales aprendizajes que podrían trasladarse al caso de ECOMERCADO UGR.
+Sin embargo, la página funciona como una landing bastante larga, con muchas secciones seguidas: presentación del proyecto, propuesta de valor, huerta, vídeo, mercados, blog, reseñas, mapa, newsletter y footer. Esto permite ofrecer mucha información, pero también puede aumentar la carga cognitiva del usuario si entra buscando un dato concreto. En el caso de ECOMERCADO UGR, donde probablemente muchos usuarios solo quieran saber fecha, horario, ubicación o productores participantes, sería importante priorizar la información más inmediata desde el principio.
 
+#### Propuesta de valor y comunicación
+
+![Propuesta de valor de Nuestras Huertas](img/analisis_referentes/nuestras-huertas-valor.png)
+
+Uno de los puntos fuertes de la web es que comunica de forma clara su propuesta de valor: fruta y verdura ecológica directa a casa. Además, divide esta idea en tres bloques fáciles de entender: **huerta propia**, **mejores productores** y **cestas semanales**. Esta estructura ayuda al usuario a comprender rápidamente qué ofrece el proyecto y por qué puede confiar en él.
+
+Este enfoque es útil para ECOMERCADO UGR, porque demuestra que una iniciativa ecológica no debería limitarse a mostrar información suelta, sino explicar de forma clara qué aporta. En el caso del ecomercado universitario, una estructura similar podría presentar tres ideas clave: productos locales, productores agroecológicos y actividades abiertas a la comunidad universitaria.
+
+#### Información sobre mercados
+
+![Sección de mercados ecológicos](img/analisis_referentes/nuestras-huertas-mercados.png)
+
+La sección de mercados es una de las más interesantes para este trabajo, porque se parece bastante al tipo de información que debería aparecer en ECOMERCADO UGR. La web muestra distintos mercados mediante tarjetas con nombre, dirección, frecuencia y horario. Esta solución es visualmente clara y permite comparar varios puntos de venta.
+
+Aun así, desde el punto de vista de la usabilidad, se detecta una posible mejora: la información aparece distribuida en varias tarjetas, pero no se destaca cuál es el próximo mercado ni hay un CTA directo tipo “Cómo llegar”, “Ver en mapa” o “Añadir al calendario”. Para un usuario que entra con prisa, especialmente desde móvil, esta información debería estar más priorizada.
+
+De esta sección se extrae un insight importante para ECOMERCADO UGR: la página principal debería incluir una tarjeta destacada con la **próxima edición**, indicando fecha, horario, lugar y botones directos como “Cómo llegar” o “Ver productores”.
+
+#### Versión móvil
+
+![Versión móvil de Nuestras Huertas](img/analisis_referentes/nuestras-huertas-movil.png)
+
+En la versión móvil, la web mantiene el contenido principal y adapta las secciones en formato vertical. Esto es positivo porque permite consultar la página desde un dispositivo móvil, que probablemente será uno de los contextos de uso más habituales. Sin embargo, también se aprecia que la página se vuelve muy larga. El usuario tiene que hacer bastante scroll para llegar a secciones como mercados, blog, reseñas o contacto.
+
+Este punto es importante para ECOMERCADO UGR. En una web pensada para un mercado universitario, la experiencia móvil debería ser más directa. Lo más importante debería aparecer en los primeros bloques: próxima edición, ubicación, horario, productos o productores destacados y acceso a información práctica. El contenido más secundario, como noticias, explicación del proyecto o newsletter, puede aparecer después.
+
+#### Evaluación de accesibilidad con WAVE
+
+![Resultado de WAVE sobre Nuestras Huertas](img/evidencias/wave-nuestras-huertas.png)
+
+Para complementar el análisis visual se utilizó la herramienta WAVE, con el objetivo de detectar problemas automáticos de accesibilidad. El resultado muestra **3 errores**, **40 errores de contraste**, **25 alertas**, **16 features**, **47 elementos estructurales**, **83 elementos ARIA** y un **AIM Score de 4.1/10**.
+
+El problema más relevante es el número de errores de contraste. Aunque visualmente la web tiene una estética coherente con el producto ecológico, algunos textos pueden no tener suficiente contraste con el fondo. Esto afecta especialmente a personas con baja visión, usuarios con pantallas pequeñas o personas que consultan la web en exteriores, donde la luz dificulta la lectura. También aparecen problemas relacionados con imágenes enlazadas sin texto alternativo, textos alternativos redundantes, enlaces redundantes y saltos en niveles de encabezado.
+
+Desde el punto de vista experto, esto indica que la web tiene una identidad visual reconocible, pero no todos los elementos están resueltos correctamente desde accesibilidad. Para ECOMERCADO UGR, esto implica que la propuesta debe cuidar desde el principio el contraste, la jerarquía de encabezados, los textos alternativos y la claridad de los enlaces. La accesibilidad no debería tratarse como una revisión final, sino como un criterio de diseño desde el inicio.
+
+#### Evaluación con Lighthouse
+
+![Resultado de Lighthouse sobre Nuestras Huertas](img/evidencias/lighthouse-nuestras-huertas.png)
+
+También se realizó una evaluación con Lighthouse en modo móvil. Los resultados obtenidos fueron:
+
+- **Performance:** 92
+- **Accessibility:** 69
+- **Best Practices:** 100
+- **SEO:** 41
+
+La puntuación de rendimiento es buena en general, aunque algunas métricas concretas muestran margen de mejora. El **Largest Contentful Paint** fue de 6.1 segundos, el **Total Blocking Time** de 960 ms y el **Speed Index** de 5.5 segundos. Esto indica que, aunque la web obtiene una puntuación global positiva, algunos elementos principales pueden tardar en aparecer o dificultar la interacción inicial.
+
+La puntuación de accesibilidad, 69, confirma algunos de los problemas detectados con WAVE: contraste insuficiente, enlaces sin nombre discernible, encabezados no ordenados de forma secuencial y ausencia de un landmark `main`. Por otro lado, la puntuación de Best Practices es muy alta, lo que indica que la web está razonablemente bien resuelta a nivel técnico general. El SEO, en cambio, obtiene una puntuación baja, algo relevante para una iniciativa que depende de que los usuarios puedan encontrar fácilmente información sobre productos ecológicos, mercados o puntos de venta.
+
+Para ECOMERCADO UGR esto permite extraer otra conclusión: una web de este tipo debe ser ligera, accesible y fácil de encontrar. No basta con que la página sea visualmente atractiva; también debe cargar rápido, estar bien estructurada y permitir que la información principal sea localizable tanto por usuarios como por buscadores.
+
+### 3.3 Problemas e insights detectados
+
+A partir del análisis de Nuestras Huertas se pueden extraer varios aprendizajes aplicables a ECOMERCADO UGR.
+
+| Aspecto analizado | Observación en Nuestras Huertas | Insight para ECOMERCADO UGR |
+|---|---|---|
+| Propuesta de valor | La web comunica bien la idea de producto ecológico directo a casa. | ECOMERCADO UGR debe explicar claramente qué ofrece: productos locales, productores agroecológicos y actividades universitarias. |
+| CTA principal | El CTA “Suscríbete a nuestras cestas” está visible en la navegación. | El CTA principal de ECOMERCADO UGR debería estar orientado a la acción más inmediata: “Ver próxima edición” o “Cómo llegar”. |
+| Información de mercados | Las tarjetas muestran dirección, horario y frecuencia de cada mercado. | La información de fecha, horario y ubicación debe aparecer en tarjetas claras, pero destacando siempre la próxima edición. |
+| Versión móvil | La web se adapta, pero se vuelve muy larga y requiere bastante scroll. | La versión móvil de ECOMERCADO UGR debe priorizar la información esencial en los primeros bloques. |
+| Accesibilidad | WAVE detecta muchos errores de contraste y varios avisos estructurales. | La propuesta debe cuidar contraste, encabezados, textos alternativos y enlaces accesibles desde el inicio. |
+| Confianza | La web usa reseñas, mapa, redes sociales y datos de contacto. | ECOMERCADO UGR debería incluir elementos de confianza: productores, entidades participantes, ubicación real y contacto claro. |
+| Contenido secundario | Blog, reseñas y newsletter enriquecen la web, pero aumentan la longitud. | El contenido secundario debe estar presente, pero no competir con la información práctica del mercado. |
+
+En resumen, Nuestras Huertas funciona bien como referente porque transmite cercanía, producto ecológico y confianza. También muestra de forma útil la información sobre mercados presenciales. Sin embargo, el análisis evidencia que una web de este tipo puede volverse demasiado extensa y presentar problemas de accesibilidad si no se cuidan el contraste, la estructura y la jerarquía de contenidos.
+
+Para ECOMERCADO UGR, el principal aprendizaje es que la interfaz debe ser más directa. La página principal debería responder rápidamente a las preguntas básicas del usuario: **cuándo es el próximo mercado, dónde se celebra, qué horario tiene, qué productores participan y cómo llegar**. A partir de ahí, se pueden añadir secciones secundarias sobre el proyecto, actividades, noticias o participación.
 ### 3.4 Propuesta de valor para ECOMERCADO UGR
 
 Pendiente de desarrollar.
