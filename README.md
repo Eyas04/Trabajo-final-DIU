@@ -80,15 +80,11 @@ Sin embargo, la página funciona como una landing bastante larga, con muchas sec
 
 #### Propuesta de valor y comunicación
 
-![Propuesta de valor de Nuestras Huertas](img/analisis_referentes/nuestras-huertas-valor.png)
-
 Uno de los puntos fuertes de la web es que comunica de forma clara su propuesta de valor: fruta y verdura ecológica directa a casa. Además, divide esta idea en tres bloques fáciles de entender: **huerta propia**, **mejores productores** y **cestas semanales**. Esta estructura ayuda al usuario a comprender rápidamente qué ofrece el proyecto y por qué puede confiar en él.
 
 Este enfoque es útil para ECOMERCADO UGR, porque demuestra que una iniciativa ecológica no debería limitarse a mostrar información suelta, sino explicar de forma clara qué aporta. En el caso del ecomercado universitario, una estructura similar podría presentar tres ideas clave: productos locales, productores agroecológicos y actividades abiertas a la comunidad universitaria.
 
 #### Información sobre mercados
-
-![Sección de mercados ecológicos](img/analisis_referentes/nuestras-huertas-mercados.png)
 
 La sección de mercados es una de las más interesantes para este trabajo, porque se parece bastante al tipo de información que debería aparecer en ECOMERCADO UGR. La web muestra distintos mercados mediante tarjetas con nombre, dirección, frecuencia y horario. Esta solución es visualmente clara y permite comparar varios puntos de venta.
 
