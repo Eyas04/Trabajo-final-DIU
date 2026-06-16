@@ -150,7 +150,7 @@ A partir del análisis de Nuestras Huertas se pueden extraer varios aprendizajes
 En resumen, Nuestras Huertas funciona bien como referente porque transmite cercanía, producto ecológico y confianza. También muestra de forma útil la información sobre mercados presenciales. Sin embargo, el análisis evidencia que una web de este tipo puede volverse demasiado extensa y presentar problemas de accesibilidad si no se cuidan el contraste, la estructura y la jerarquía de contenidos.
 
 Para ECOMERCADO UGR, el principal aprendizaje es que la interfaz debe ser más directa. La página principal debería responder rápidamente a las preguntas básicas del usuario: **cuándo es el próximo mercado, dónde se celebra, qué horario tiene, qué productores participan y cómo llegar**. A partir de ahí, se pueden añadir secciones secundarias sobre el proyecto, actividades, noticias o participación.
-### 3.4 Propuesta de valor para ECOMERCADO UGR
+
 
 ### 3.4 Propuesta de valor para ECOMERCADO UGR
 
